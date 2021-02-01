@@ -12,7 +12,7 @@ Chair: Joseph Lorenzo Hall
 
 ### Scott Shapiro: Is Cyber War Legal: A Four Hundred Year Retrospective
 
-* ...
+* https://twitter.com/LeaKissner/status/1356260200592801793
 
 ### Sunny Consolvo: Security &amp; U.S. Political Campaigns: A Study &amp; Expert Roundtable
 
