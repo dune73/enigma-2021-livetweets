@@ -16,7 +16,7 @@ Chair: Joseph Lorenzo Hall
 
 ### Sunny Consolvo: Security &amp; U.S. Political Campaigns: A Study &amp; Expert Roundtable
 
-* ...
+* https://twitter.com/LeaKissner/status/1356267638729502725
 
 ### Christian Folini: The Adventurous Tale of Online Voting in Switzerland
 
