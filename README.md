@@ -48,15 +48,15 @@ Chair: Melanie Ensign
 
 ### Mitch Negus: No Data, No Problem—Giving Nuclear Inspectors Better Tools without Revealing State Secrets
 
-* ...
+* https://twitter.com/LeaKissner/status/1356324901959831553
 
 ### Kelly Huang: Gone, But Not &quot;Forgotten&quot;—Technical &amp; Practical Challenges In Operationalizing Modern Privacy Rights
 
-* ...
+* https://twitter.com/LeaKissner/status/1356332269372260353
 
 ### Simson Garfinkel: Implementing Differential Privacy for the 2020 Census
 
-* ...
+* https://twitter.com/LeaKissner/status/1356340613587771393
 
 
 ## Humans Making Decisions
@@ -65,11 +65,11 @@ Chair: Joe Calandrino
 
 ### Patrick Kelley: Privacy, Measurably, Isn&#039;t Dead
 
-* ...
+* https://twitter.com/LeaKissner/status/1356351088073396224
 
 ### Pardis Emami-Naeini: Privacy and Security Nutrition Labels to Inform IoT Consumers
 
-* ...
+* https://twitter.com/LeaKissner/status/1356358418798239744
 
 ## Panel: Contact Tracing
 
