@@ -24,7 +24,7 @@ Chair: Joseph Lorenzo Hall
 
 ### Jack Cable: The Full Stack Problem of Election Security
 
-* ...
+* https://twitter.com/LeaKissner/status/1356283259366227971
 
 ## Hardware
 
