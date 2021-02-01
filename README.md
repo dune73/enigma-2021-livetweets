@@ -20,7 +20,7 @@ Chair: Joseph Lorenzo Hall
 
 ### Christian Folini: The Adventurous Tale of Online Voting in Switzerland
 
-* ...
+* https://twitter.com/LeaKissner/status/1356275426184740872
 
 ### Jack Cable: The Full Stack Problem of Election Security
 
