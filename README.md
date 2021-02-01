@@ -1,7 +1,7 @@
 # Livetweet threads and media coverage of the talks at Usenix Enigma 2021 conference
 
 * Website: https://www.usenix.org/conference/enigma2021
-* Twitter hashtag search (#enigma2021): https://twitter.com/search?q=%23enigma2021&src=typed_query
+* Twitter hashtag search (#enigma2021): https://twitter.com/search?q=%23enigma2021&src=typed_query&f=live
 
 If I miss anything, then please let me know. You can reach me via DM at [@ChrFolini](https://twitter.com/ChrFolini) or [folini@netnea.com](mailto:folini@netnea.com).
 
