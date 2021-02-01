@@ -32,15 +32,15 @@ Session Chair: Rodrigo Branco
 
 ### Nicole Fern: Hardware: A Double-Edged Sword for Security
 
-* ...
+* n/a
 
 ### Sanghyun Hong: A Sound Mind in a Vulnerable Body: Practical Hardware Attacks on Deep Learning
 
-* ...
+* https://twitter.com/LeaKissner/status/1356301305816305664
 
 ### Julian Rrushi: A Quest for the Physics of Cyberspace
 
-* ...
+* n/a
 
 ## Privacy Tech
 
