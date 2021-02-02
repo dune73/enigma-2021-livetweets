@@ -107,11 +107,11 @@ Chair: Diane Hosfelt
 
 ### Sofía Celi: &quot;I Thought I Was Being Strong with a Complicated Person&quot;: The Tales of Intimate Gender-Based Online Abuse in the Global South
 
-* ...
+* https://twitter.com/LeaKissner/status/1356686214842081281
 
 ### Melanie Ensign: Da Da: What Shark Conservation Teaches Us about Emotionality and Effective Communication Strategies for Security and Privacy
 
-* ...
+* https://twitter.com/LeaKissner/status/1356691873658638337
 
 
 ## Emerging Topics
