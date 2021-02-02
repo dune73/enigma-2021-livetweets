@@ -92,7 +92,7 @@ Chair: Andre Gregio
 
 ### Hyrum Anderson: The Practical Divide between Adversarial ML Research and Security Practice: A Red Team Perspective
 
-* ...
+* n/a
 
 ### Trey Herr: Breaking Trust – Shades of Crisis Across an Insecure Software Supply Chain
 
