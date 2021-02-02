@@ -88,7 +88,7 @@ Chair: Andre Gregio
 
 ### Maddie Stone: The State of 0-Day in-the-Wild Exploitation
 
-* ...
+* https://twitter.com/LeaKissner/status/1356654815456059392
 
 ### Hyrum Anderson: The Practical Divide between Adversarial ML Research and Security Practice: A Red Team Perspective
 
