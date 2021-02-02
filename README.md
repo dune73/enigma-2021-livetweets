@@ -80,6 +80,7 @@ Moderator: Ben Adida
 * Tiffany C. Li, Boston University School of Law
 * Marcel Salathé, EPFL
 
+https://twitter.com/LeaKissner/status/1356620069514567683
 
 ## Vulnerabilities and Attacks
 
