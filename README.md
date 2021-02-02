@@ -96,7 +96,7 @@ Chair: Andre Gregio
 
 ### Trey Herr: Breaking Trust – Shades of Crisis Across an Insecure Software Supply Chain
 
-* ...
+* https://twitter.com/LeaKissner/status/1356669651103621120
 
 
 
