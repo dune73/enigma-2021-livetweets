@@ -125,7 +125,7 @@ Chair: Christian Folini
 
 ### Mark Funk: Designing Verifiable Health Solutions For Global Pandemic
 
-* ...
+* https://twitter.com/LeaKissner/status/1356991057930510336
 
 ### Carmela Troncoso: Contact Tracing Apps: Engineering Privacy in Quicksand
 
