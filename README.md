@@ -121,7 +121,7 @@ Chair: Christian Folini
 
 ### Cooper Quintin: Detecting Fake 4G LTE Base Stations in Real Time
 
-* ...
+* https://twitter.com/LeaKissner/status/1356982584992014337
 
 ### Mark Funk: Designing Verifiable Health Solutions For Global Pandemic
 
