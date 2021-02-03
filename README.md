@@ -155,14 +155,14 @@ Chair: Andrea Limbago
 
 ### Kate Starbird: Online Rumors, Misinformation and Disinformation: The Perfect Storm of COVID-19 and Election2020
 
-* ...
+* https://twitter.com/LeaKissner/status/1357039697571188736
 
 ### Gianluca Stringhini: Computational Methods to Understand and Mitigate Online Aggression
 
-* ...
+* https://twitter.com/LeaKissner/status/1357047725833900033
 
 ### Marcus Botacin: Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Internet Banking Security to Show That It Should!
 
-* ...
+* https://twitter.com/LeaKissner/status/1357055029555810306
 
 
