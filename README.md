@@ -133,7 +133,7 @@ Chair: Christian Folini
 
 ### Merry Ember Mou: Building E2EE and User Identity
 
-* ...
+* https://twitter.com/LeaKissner/status/1357007009699094529
 
 
 ## Security Hardening
