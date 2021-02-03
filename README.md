@@ -146,7 +146,7 @@ Chair: Bob Lord
 
 ### Chris Palmer: The Limits of Sandboxing and Next Steps
 
-* ...
+* https://twitter.com/LeaKissner/status/1357025777422721030
 
 
 ## Abusing People and Culture
