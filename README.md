@@ -142,7 +142,7 @@ Chair: Bob Lord
 
 ### Alex Gaynor: Quantifying Memory Unsafety and Reactions to It
 
-* ...
+* https://twitter.com/LeaKissner/status/1357017009402179586
 
 ### Chris Palmer: The Limits of Sandboxing and Next Steps
 
