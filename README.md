@@ -129,7 +129,7 @@ Chair: Christian Folini
 
 ### Carmela Troncoso: Contact Tracing Apps: Engineering Privacy in Quicksand
 
-* ...
+* https://twitter.com/LeaKissner/status/1356997927915249664
 
 ### Merry Ember Mou: Building E2EE and User Identity
 
